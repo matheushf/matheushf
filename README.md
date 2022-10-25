@@ -4,6 +4,6 @@
 
 A FrontEnd engineer, I like architecture, Design Systems and I try to make my stuff future resilient, ready to evolve.
 
-- 🔭 Currently I'm a engineer at Creditas.
+- 🔭 Currently I'm a engineer at [iFood](https://www.linkedin.com/company/ifood-/).
 - 🌱 I'm diving deep in Architecture, design patterns and I wish to contribute with the comunity soon.
 - 📫 Get in contact with me on my [LinkedIn](https://www.linkedin.com/in/matheushf/).
